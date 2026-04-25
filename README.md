@@ -1,5 +1,5 @@
-# UIB-LAB-MOBDES-2331101-Leonardo-Dicaprio
-# 🎬 Hi Movie App
+## UIB-LAB-MOBDES-2331101-Leonardo-Dicaprio
+## 🎬 Hi Movie App
 
 Hi Movie App adalah aplikasi mobile berbasis Flutter yang menampilkan daftar film menggunakan TMDB API.
 
