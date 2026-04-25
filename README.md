@@ -28,9 +28,11 @@ lib/
 │   └── api_service.dart
 ├── providers/
 │   └── movie_provider.dart
+│   └── theme_provider.dart
 ├── views/
 │   ├── screens/
 │   │   └── home_screen.dart
+│   │   └── movie_detail_screen.dart
 │   └── widgets/
 │       ├── movie_card.dart
 │       ├── shimmer_loading.dart
